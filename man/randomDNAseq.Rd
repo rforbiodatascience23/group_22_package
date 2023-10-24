@@ -15,3 +15,6 @@ random sample of DNAseq of the length we want
 \description{
 randomDNAseq
 }
+\examples{
+randomDNAseq(5)
+}

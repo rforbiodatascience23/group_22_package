@@ -6,6 +6,7 @@
 #' @export
 #'
 #' @examples
+#' randomDNAseq(5)
 randomDNAseq <- function(len){
   sampleDNAseq <- sample(c("A", "T", "G", "C"), size = len, replace = TRUE)
   DNAseq <- paste0(sampleDNAseq, collapse = "")
