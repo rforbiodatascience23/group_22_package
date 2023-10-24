@@ -18,7 +18,7 @@ Author: Authors@R:
     person(given = "Angeliki",
            family = "Vliora",
            role = "aut",
-           email = "your@email.com")
+           email = "s233059@dtu.dk")
     person(given = "Dionysios",
            family = "Dimitreas",
            role = "aut",
