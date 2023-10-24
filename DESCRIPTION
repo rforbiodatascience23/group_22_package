@@ -6,7 +6,7 @@ Author: Authors@R:
   c(person(given = "Erikas",
            family = "Mikuzis",
            role = c("aut", "cre"), # There must be a "cre", but there can only be one
-           email = "s223164@fru.dk"), 
+           email = "s223164@dtu.dk"), 
     person(given = "Ander",
            family = "Barrio",
            role = "aut",
@@ -22,7 +22,7 @@ Author: Authors@R:
     person(given = "Dionysios",
            family = "Dimitreas",
            role = "aut",
-           email = "s232752@dtu.com"))
+           email = "s232752@dtu.dk"))
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
