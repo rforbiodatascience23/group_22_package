@@ -11,10 +11,10 @@ Author: Authors@R:
            family = "Barrio",
            role = "aut",
            email = "anderbarrio@gmail.com")
-    person(given = "firstname",
-           family = "lastname",
+    person(given = "Valeria",
+           family = "Tedeschi",
            role = "aut",
-           email = "your@email.com")
+           email = "s231945@dtu.dk")
     person(given = "Angeliki",
            family = "Vliora",
            role = "aut",
