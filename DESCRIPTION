@@ -32,11 +32,11 @@ LazyData: true
 Depends: 
     R (>= 2.10)
 RoxygenNote: 7.2.3
-<<<<<<< HEAD
-=======
+
 Imports: 
-    ggplot2
->>>>>>> 552142974afcdccce7d70bc65b727adacd9b403d
+    ggplot2,
+    stringr
+    
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
