@@ -10,15 +10,15 @@ Author: Authors@R:
     person(given = "Ander",
            family = "Barrio",
            role = "aut",
-           email = "anderbarrio@gmail.com")
+           email = "anderbarrio@gmail.com"),
     person(given = "Valeria",
            family = "Tedeschi",
            role = "aut",
-           email = "s231945@dtu.dk")
+           email = "s231945@dtu.dk"),
     person(given = "Angeliki",
            family = "Vliora",
            role = "aut",
-           email = "s233059@dtu.dk")
+           email = "s233059@dtu.dk"),
     person(given = "Dionysios",
            family = "Dimitreas",
            role = "aut",
@@ -32,3 +32,9 @@ LazyData: true
 Depends: 
     R (>= 2.10)
 RoxygenNote: 7.2.3
+Imports: 
+    ggplot2,
+    stringr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
