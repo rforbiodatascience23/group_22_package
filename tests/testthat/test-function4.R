@@ -1,3 +1,4 @@
 test_that("checks if function 4 works", {
-  expect_equal(2 * 2, 4)
+  expect_equal( translate_codons(c("AAA", "AAC", "AAG", "AAU")),"KNKN")
 })
+
