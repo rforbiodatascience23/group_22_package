@@ -2,4 +2,7 @@
 
 export(ander_1)
 export(randomDNAseq)
+export(transcription)
+export(translate_codons)
+export(translation)
 import(ggplot2)
