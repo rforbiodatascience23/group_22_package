@@ -1,26 +1,6 @@
 ---
-output: github_document
----
-
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
-
-# group22
-
-<!-- badges: start -->
-<!-- badges: end -->
-
----
 title: "group_22_package"
-output: rmarkdown::github_document
+output: rmarkdown::pdf_document
 vignette: >
   %\VignetteIndexEntry{group_22_package}
   %\VignetteEngine{knitr::rmarkdown}
@@ -217,3 +197,5 @@ Limiting dependencies in our package is good for simplicity, reliability, and pe
 Using `@importFrom package function` in a function description specifies that a specific function from a package is needed for that function. This information helps developers and tools understand the function's dependencies. 
 
 In contrast, `package::function()` is used within the code to explicitly call a function from a package. It ensures that the function is properly referenced in the code, but it doesn't provide metadata about the function's usage.
+
+
